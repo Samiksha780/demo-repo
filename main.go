@@ -5,5 +5,6 @@ import "fmt"
 func main() {
 
 	fmt.Printf("Hello World")
-	fmt.Print("My first local update")
+	fmt.Print("My first local update is done")
+
 }
